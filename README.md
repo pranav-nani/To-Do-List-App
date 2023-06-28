@@ -1,4 +1,4 @@
-# To Do List App  [Live Demo]().
+# To Do List App  [Live Demo](https://pranav-nani.github.io/To-Do-List-App/).
 The To-Do List App is a web-based application built using HTML, CSS, and JavaScript. It offers users a convenient way to manage and organize their tasks effectively. The provided code showcases the core functionalities of the app.
 
 With this app, users can add new tasks by typing them into the input box and clicking the "Add" button. If the input box is empty, an alert will be displayed, prompting the user to enter a task.
